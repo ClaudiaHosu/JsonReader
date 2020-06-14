@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quick Weather</string>
+    <string name="cityPrompt">Enter a city...</string>
+    <string name="cityHint">City</string>
+    <string name="weatherButton">What\'s the weather?</string>
+    <string name="temp">Temp</string>
+    <string name="feelsLike">Feels like</string>
+    <string name="minTemp">Min temp</string>
+    <string name="maxTemp">Max temp</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+</resources>
